@@ -35,7 +35,7 @@ As you can see we have an adventure ahead, LETS GET TO IT!! Enjoy!!
 
 <h3>What are Containers</h3>
 
-Containers are packages of software the "contain" all the necessary parts for it run efficiently in any computing environment.
+Containers are packages of software the "contain" all the necessary parts for it run efficiently in any computing environment. These parts are all the compatible dependencies such as versions of programming langauges, system tools, system libraries, binary code, executable and configuration files. 
 
 
 <h2>Program walk-through:</h2>
