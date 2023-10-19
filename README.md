@@ -31,6 +31,13 @@ As you can see we have an adventure ahead, LETS GET TO IT!! Enjoy!!
 - <b>Ubuntu Linux 22.04</b>
 - <b>VirtualBox 7.0.12 & Oracle VM VirtualBox Extension Pack</b>
 
+<h2>Technology and Concepts</h2>
+
+<h3>What are Containers</h3>
+
+Containers are packages of software the "contain" all the necessary parts for it run efficiently in any computing environment.
+
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
