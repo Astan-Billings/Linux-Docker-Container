@@ -1,9 +1,23 @@
 <h1>Running Containerized Applications using Docker on Linux</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project, we will learn about Docker containers and the benefits of these packages in deploying applications. First we will explain what are containers and the process in how they work. Then we will begin practical application with Labs walkthroughs of the various steps below:
+
+<br/>
+ 
+ - Installing Docker on Ubuntu Linux.
+ - Pulling Docker Images to Run Containers.
+ - Listing/Removing Images and Containers.
+ - Getting Secure Shell (SSH) access to a Container.
+ - Executing Commands in a running Container.
+ - Monitoring Containers.
+ - Committing Container changes into a New Docker Image.
+ - Creating Custom Images using Dockerfile.
+
+As you can see we have an adventure ahead, LETS GET TO IT!! Enjoy!!
+
 <br />
 
 
