@@ -5,8 +5,6 @@
 <h2>Description</h2>
 In this project, we will learn about Docker containers and the benefits of these packages in deploying applications. First we will explain what are containers and the process in how they work. Then we will begin practical application with Labs walkthroughs of the various steps below:
 
-<br/>
- 
  - Installing Docker on Ubuntu Linux.
  - Pulling Docker Images to Run Containers.
  - Listing/Removing Images and Containers.
@@ -33,9 +31,13 @@ As you can see we have an adventure ahead, LETS GET TO IT!! Enjoy!!
 
 <h2>Technology and Concepts</h2>
 
-<h3>What are Containers</h3>
+<h3>What are Containers?</h3>
 
 Containers are packages of software the "contain" all the necessary parts for it run efficiently in any computing environment. These parts are all the compatible dependencies such as versions of programming langauges, system tools, system libraries, binary code, executable and configuration files. 
+
+<h3>What is Docker?</h3>
+
+<h3>What are Docker Images?</h3>
 
 
 <h2>Program walk-through:</h2>
